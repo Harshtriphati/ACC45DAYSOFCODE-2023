@@ -1,4 +1,4 @@
-// Code for Day 37
+// Code for Day 36
 #include<stdio.h>
 
 int main() {
